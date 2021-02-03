@@ -74,7 +74,7 @@ public class Assign3 {
 
         while (true){
             //Game.display();
-
+            //Game play starts
             boolean isMafia = false;
             System.out.println("Round "+round);
             round+=1;
